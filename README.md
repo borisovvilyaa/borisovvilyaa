@@ -5,9 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript) ![Wordpress](https://img.shields.io/badge/-Wordpress-090909?style=for-the-badge&logo=Wordpress) ![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP) ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-090909?style=for-the-badge&logo=BOOTSTRAP) ![MYSQL](https://img.shields.io/badge/-MYSQL-090909?style=for-the-badge&logo=MYSQL)![FIGMA](https://img.shields.io/badge/-FIGMA-090909?style=for-the-badge&logo=FIGMA)
 
 ### Follow Me
-
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)]("https://www.instagram.com/biolry/") [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)]("https://t.me/borisovilyaweb") [![Youtube](https://img.shields.io/badge/-Youtube-090909?style=for-the-badge&logo=Youtube)]("https://www.youtube.com/watch?v=dQw4w9WgXcQ") [![Youtube](https://img.shields.io/badge/-Youtube_Real<:-090909?style=for-the-badge&logo=Youtube)]("https://www.youtube.com/watch?v=dQw4w9WgXcQ")
-
+[![Telegram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/biolry/) [![Instagram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/borisovilyaweb) [![Youtube](https://img.shields.io/badge/-Youtube-090909?style=for-the-badge&logo=Youtube)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) [![Youtube](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
 glory to ukraine :ukraine: ✨
