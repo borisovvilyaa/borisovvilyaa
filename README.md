@@ -1,4 +1,4 @@
-## I'm beginner UX/UI designer and Front-End. 18 y.o
+## I'm beginner UX/UI designer and Front-End Developer. 18 y.o
 ![image](assets/dancer_ned.gif)
 ### Languages and Tools
 
