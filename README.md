@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @borisovvilyaa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Header 
 
-<!---
-borisovvilyaa/borisovvilyaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+##I'm beginner UX/UI designer and Front-End
+
+###Languages and Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript) ![Wordpress](https://img.shields.io/badge/-Wordpress-090909?style=for-the-badge&logo=Wordpress) ![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP) ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-090909?style=for-the-badge&logo=BOOTSTRAP) ![MYSQL](https://img.shields.io/badge/-MYSQL-090909?style=for-the-badge&logo=MYSQL)![FIGMA](https://img.shields.io/badge/-FIGMA-090909?style=for-the-badge&logo=FIGMA)
+Follow Me
