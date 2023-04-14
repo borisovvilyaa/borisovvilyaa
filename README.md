@@ -1,7 +1,6 @@
 ## About Me
 My name is Illia, and I am a passionate software developer with a focus on Python and decentralized technologies. I am currently studying at KHPI in computer engener and spend most of my time exploring and learning new technologies.
 
-I am deeply fascinated by the potential of blockchain, decentralized finance (DeFi), and smart contract development with Solidity. I am always looking for new opportunities to expand my knowledge in these areas and contribute to innovative decentralized projects.
 
 In my free time, I enjoy reading about the latest developments in blockchain technology and experimenting with new coding projects. I am also an enjoy spending time outdoors whenever I can.
 
