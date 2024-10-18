@@ -15,5 +15,8 @@ I am currently pursuing a Bachelor's degree in **Computer Engineering** at **Kha
 - [LinkedIn](https://www.linkedin.com/in/illia-borusov/) 
 - [Telegram](https://t.me/illiaborusov) 
 - [YouTube](https://www.youtube.com/@Floretona) 
+- [My Site](https://www.borusovillia.netlify.com) 
+
+
 
 
