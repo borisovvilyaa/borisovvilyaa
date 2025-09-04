@@ -31,7 +31,7 @@ Open to discussing projects or professional opportunities:
 
 - 📧 **Email**: [borisovvilyaa@gmail.com](mailto:borisovvilyaa@gmail.com)
 - 🌐 **Personal Website**: [borusovillia.netlify.app](https://borusovillia.netlify.app/)
-- 🌐 **Company Website**: [techvisionlab.netlify.app](https://techvisionlab.netlify.app/)
+- 🌐 **Company Website**: [techvisionlab.netlify.app](https://illia.vision-lab.studio/)
 - 💼 **LinkedIn**: [illia-borusov](https://www.linkedin.com/in/illia-borusov/)
 - 🗨️ **Telegram**: [@illiaborusov](https://t.me/illiaborusov)
 - 🎥 **YouTube**: [@Floretona](https://www.youtube.com/@Floretona)
