@@ -30,8 +30,8 @@ I'm a **software developer** from **Kharkiv, Ukraine** 🇺🇦, specializing in
 Open to discussing projects or professional opportunities:
 
 - 📧 **Email**: [borisovvilyaa@gmail.com](mailto:borisovvilyaa@gmail.com)
-- 🌐 **Personal Website**: [borusovillia.netlify.app](https://borusovillia.netlify.app/)
-- 🌐 **Company Website**: [techvisionlab.netlify.app](https://illia.vision-lab.studio/)
+- 🌐 **Personal Website**: [illia.vision-lab.studio](https://illia.vision-lab.studio/)
+- 🌐 **Company Website**: [vision-lab.studio](https://vision-lab.studio/)
 - 💼 **LinkedIn**: [illia-borusov](https://www.linkedin.com/in/illia-borusov/)
 - 🗨️ **Telegram**: [@illiaborusov](https://t.me/illiaborusov)
 - 🎥 **YouTube**: [@Floretona](https://www.youtube.com/@Floretona)
